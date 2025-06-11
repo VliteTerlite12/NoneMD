@@ -1,0 +1,32 @@
+# Abaikan folder node_modules
+node_modules/
+
+# Abaikan file session (misal: session.json, session/, dll.)
+session*
+*.session
+session/
+
+# Abaikan environment variables
+.env
+.env.local
+.env.*.local
+
+# Abaikan log files
+*.log
+logs/
+
+# Abaikan folder build/dist
+dist/
+build/
+.out/
+.next/
+
+# Abaikan sistem operasi
+.DS_Store      # macOS
+Thumbs.db      # Windows
+
+# Abaikan IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo

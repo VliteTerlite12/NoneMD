@@ -1,0 +1,10 @@
+file '/root/wa-bussines/tmp/frame0.mp4'
+duration 0.5
+file '/root/wa-bussines/tmp/frame1.mp4'
+duration 0.5
+file '/root/wa-bussines/tmp/frame2.mp4'
+duration 0.5
+file '/root/wa-bussines/tmp/frame3.mp4'
+duration 0.5
+file '/root/wa-bussines/tmp/frame3.mp4'
+duration 3
